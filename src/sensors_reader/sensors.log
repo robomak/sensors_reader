@@ -1,0 +1,1237 @@
+Send: 
+HTTP/1.1 200 OK
+Content-type: text/html
+Content-Length:35
+
+<html><body> OK </body></html>
+
+Request:
+MQTTDB
+#00000004:
+414
+21:10:29 18-08-21
+dev/0004a30b001a0006/rx{"applicationID":"3","applicationName":"test","devEUI":"0004a30b001a0006","deviceName":"dev-0004a30b001a0006","timestamp":1675794599,"fCnt":68,"fPort":1,"data":"FE02000000A1FF","data_encode":"hexstring","adr":true,"rxInfo":[{"gatewayID":"ac1f09fffe016898","loRaSNR":0.5,"rssi":-111,"location":{"latitude":0.000000,"longitude":0.000000,"altitude":0}}],"txInfo":{"frequency":868900000,"dr":0}}
+DBEND
+
+Send: 
+HTTP/1.1 200 OK
+Content-type: text/html
+Content-Length:35
+
+<html><body> OK </body></html>
+
+Request:
+MQTTDB
+#00000004:
+417
+21:10:58 18-08-21
+dev/0004a30b001a0002/rx{"applicationID":"3","applicationName":"test","devEUI":"0004a30b001a0002","deviceName":"0004A30B001A0002","timestamp":1675794627,"fCnt":13106,"fPort":1,"data":"000C000000BD003101","data_encode":"hexstring","adr":true,"rxInfo":[{"gatewayID":"ac1f09fffe016898","loRaSNR":10.5,"rssi":-79,"location":{"latitude":0.000000,"longitude":0.000000,"altitude":0}}],"txInfo":{"frequency":868900000,"dr":5}}
+DBEND
+
+Send: 
+HTTP/1.1 200 OK
+Content-type: text/html
+Content-Length:35
+
+<html><body> OK </body></html>
+
+Request:
+MQTTDB
+#00000004:
+420
+21:10:58 18-08-21
+dev/0004a30b001a0ef3/rx{"applicationID":"1","applicationName":"UNIT","devEUI":"0004a30b001a0ef3","deviceName":"0004A30B001A0EF3","timestamp":1675794628,"fCnt":4744,"fPort":1,"data":"C50E0000009CFF9EFFD002","data_encode":"hexstring","adr":true,"rxInfo":[{"gatewayID":"ac1f09fffe016898","loRaSNR":2.3,"rssi":-109,"location":{"latitude":0.000000,"longitude":0.000000,"altitude":0}}],"txInfo":{"frequency":868700000,"dr":0}}
+DBEND
+
+Send: 
+HTTP/1.1 200 OK
+Content-type: text/html
+Content-Length:35
+
+<html><body> OK </body></html>
+
+Request:
+MQTTDB
+#00000004:
+420
+21:11:58 18-08-21
+dev/0004a30b001a0ef3/rx{"applicationID":"1","applicationName":"UNIT","devEUI":"0004a30b001a0ef3","deviceName":"0004A30B001A0EF3","timestamp":1675794688,"fCnt":4745,"fPort":1,"data":"C50E0000009DFF9EFFD002","data_encode":"hexstring","adr":true,"rxInfo":[{"gatewayID":"ac1f09fffe016898","loRaSNR":2.3,"rssi":-107,"location":{"latitude":0.000000,"longitude":0.000000,"altitude":0}}],"txInfo":{"frequency":868900000,"dr":0}}
+DBEND
+
+Send: 
+HTTP/1.1 200 OK
+Content-type: text/html
+Content-Length:35
+
+<html><body> OK </body></html>
+
+Request:
+MQTTDB
+#00000004:
+414
+21:12:28 18-08-21
+dev/0004a30b001a0006/rx{"applicationID":"3","applicationName":"test","devEUI":"0004a30b001a0006","deviceName":"dev-0004a30b001a0006","timestamp":1675794718,"fCnt":69,"fPort":1,"data":"FE02000000A0FF","data_encode":"hexstring","adr":true,"rxInfo":[{"gatewayID":"ac1f09fffe016898","loRaSNR":2.5,"rssi":-109,"location":{"latitude":0.000000,"longitude":0.000000,"altitude":0}}],"txInfo":{"frequency":868500000,"dr":0}}
+DBEND
+
+Send: 
+HTTP/1.1 200 OK
+Content-type: text/html
+Content-Length:35
+
+<html><body> OK </body></html>
+
+Request:
+MQTTDB
+#00000004:
+417
+21:12:58 18-08-21
+dev/0004a30b001a0002/rx{"applicationID":"3","applicationName":"test","devEUI":"0004a30b001a0002","deviceName":"0004A30B001A0002","timestamp":1675794747,"fCnt":13107,"fPort":1,"data":"000C000000BD003101","data_encode":"hexstring","adr":true,"rxInfo":[{"gatewayID":"ac1f09fffe016898","loRaSNR":10.0,"rssi":-81,"location":{"latitude":0.000000,"longitude":0.000000,"altitude":0}}],"txInfo":{"frequency":868500000,"dr":5}}
+DBEND
+
+Send: 
+HTTP/1.1 200 OK
+Content-type: text/html
+Content-Length:35
+
+<html><body> OK </body></html>
+
+Request:
+MQTTDB
+#00000004:
+420
+21:12:58 18-08-21
+dev/0004a30b001a0ef3/rx{"applicationID":"1","applicationName":"UNIT","devEUI":"0004a30b001a0ef3","deviceName":"0004A30B001A0EF3","timestamp":1675794748,"fCnt":4746,"fPort":1,"data":"C50E0000009DFF9EFFD002","data_encode":"hexstring","adr":true,"rxInfo":[{"gatewayID":"ac1f09fffe016898","loRaSNR":3.5,"rssi":-111,"location":{"latitude":0.000000,"longitude":0.000000,"altitude":0}}],"txInfo":{"frequency":869100000,"dr":0}}
+DBEND
+
+Send: 
+HTTP/1.1 200 OK
+Content-type: text/html
+Content-Length:35
+
+<html><body> OK </body></html>
+
+Request:
+MQTTDB
+#00000004:
+420
+21:13:58 18-08-21
+dev/0004a30b001a0ef3/rx{"applicationID":"1","applicationName":"UNIT","devEUI":"0004a30b001a0ef3","deviceName":"0004A30B001A0EF3","timestamp":1675794808,"fCnt":4747,"fPort":1,"data":"C50E0000009DFF9EFFD002","data_encode":"hexstring","adr":true,"rxInfo":[{"gatewayID":"ac1f09fffe016898","loRaSNR":2.8,"rssi":-106,"location":{"latitude":0.000000,"longitude":0.000000,"altitude":0}}],"txInfo":{"frequency":868900000,"dr":0}}
+DBEND
+
+Send: 
+HTTP/1.1 200 OK
+Content-type: text/html
+Content-Length:35
+
+<html><body> OK </body></html>
+
+Request:
+MQTTDB
+#00000004:
+414
+21:14:28 18-08-21
+dev/0004a30b001a0006/rx{"applicationID":"3","applicationName":"test","devEUI":"0004a30b001a0006","deviceName":"dev-0004a30b001a0006","timestamp":1675794838,"fCnt":70,"fPort":1,"data":"FE02000000A0FF","data_encode":"hexstring","adr":true,"rxInfo":[{"gatewayID":"ac1f09fffe016898","loRaSNR":2.5,"rssi":-112,"location":{"latitude":0.000000,"longitude":0.000000,"altitude":0}}],"txInfo":{"frequency":867700000,"dr":0}}
+DBEND
+
+Send: 
+HTTP/1.1 200 OK
+Content-type: text/html
+Content-Length:35
+
+<html><body> OK </body></html>
+
+Request:
+MQTTDB
+#00000004:
+416
+21:14:58 18-08-21
+dev/0004a30b001a0002/rx{"applicationID":"3","applicationName":"test","devEUI":"0004a30b001a0002","deviceName":"0004A30B001A0002","timestamp":1675794867,"fCnt":13108,"fPort":1,"data":"000C000000BC003101","data_encode":"hexstring","adr":true,"rxInfo":[{"gatewayID":"ac1f09fffe016898","loRaSNR":7.8,"rssi":-77,"location":{"latitude":0.000000,"longitude":0.000000,"altitude":0}}],"txInfo":{"frequency":868700000,"dr":5}}
+DBEND
+
+Send: 
+HTTP/1.1 200 OK
+Content-type: text/html
+Content-Length:35
+
+<html><body> OK </body></html>
+
+Request:
+MQTTDB
+#00000004:
+420
+21:14:58 18-08-21
+dev/0004a30b001a0ef3/rx{"applicationID":"1","applicationName":"UNIT","devEUI":"0004a30b001a0ef3","deviceName":"0004A30B001A0EF3","timestamp":1675794868,"fCnt":4748,"fPort":1,"data":"C50E0000009DFF9EFFCF02","data_encode":"hexstring","adr":true,"rxInfo":[{"gatewayID":"ac1f09fffe016898","loRaSNR":3.3,"rssi":-111,"location":{"latitude":0.000000,"longitude":0.000000,"altitude":0}}],"txInfo":{"frequency":867900000,"dr":0}}
+DBEND
+
+Send: 
+HTTP/1.1 200 OK
+Content-type: text/html
+Content-Length:35
+
+<html><body> OK </body></html>
+
+Request:
+MQTTDB
+#00000004:
+420
+21:15:58 18-08-21
+dev/0004a30b001a0ef3/rx{"applicationID":"1","applicationName":"UNIT","devEUI":"0004a30b001a0ef3","deviceName":"0004A30B001A0EF3","timestamp":1675794928,"fCnt":4749,"fPort":1,"data":"C50E0000009DFF9EFFD002","data_encode":"hexstring","adr":true,"rxInfo":[{"gatewayID":"ac1f09fffe016898","loRaSNR":3.8,"rssi":-109,"location":{"latitude":0.000000,"longitude":0.000000,"altitude":0}}],"txInfo":{"frequency":867900000,"dr":0}}
+DBEND
+
+Send: 
+HTTP/1.1 200 OK
+Content-type: text/html
+Content-Length:35
+
+<html><body> OK </body></html>
+
+Request:
+MQTTDB
+#00000004:
+414
+21:16:28 18-08-21
+dev/0004a30b001a0006/rx{"applicationID":"3","applicationName":"test","devEUI":"0004a30b001a0006","deviceName":"dev-0004a30b001a0006","timestamp":1675794958,"fCnt":71,"fPort":1,"data":"FE02000000A0FF","data_encode":"hexstring","adr":true,"rxInfo":[{"gatewayID":"ac1f09fffe016898","loRaSNR":2.0,"rssi":-106,"location":{"latitude":0.000000,"longitude":0.000000,"altitude":0}}],"txInfo":{"frequency":868900000,"dr":0}}
+DBEND
+
+Send: 
+HTTP/1.1 200 OK
+Content-type: text/html
+Content-Length:35
+
+<html><body> OK </body></html>
+
+Request:
+MQTTDB
+#00000004:
+417
+21:16:58 18-08-21
+dev/0004a30b001a0002/rx{"applicationID":"3","applicationName":"test","devEUI":"0004a30b001a0002","deviceName":"0004A30B001A0002","timestamp":1675794987,"fCnt":13109,"fPort":1,"data":"000C000000BD003001","data_encode":"hexstring","adr":true,"rxInfo":[{"gatewayID":"ac1f09fffe016898","loRaSNR":10.0,"rssi":-82,"location":{"latitude":0.000000,"longitude":0.000000,"altitude":0}}],"txInfo":{"frequency":869100000,"dr":5}}
+DBEND
+
+Send: 
+HTTP/1.1 200 OK
+Content-type: text/html
+Content-Length:35
+
+<html><body> OK </body></html>
+
+Request:
+MQTTDB
+#00000004:
+420
+21:16:58 18-08-21
+dev/0004a30b001a0ef3/rx{"applicationID":"1","applicationName":"UNIT","devEUI":"0004a30b001a0ef3","deviceName":"0004A30B001A0EF3","timestamp":1675794988,"fCnt":4750,"fPort":1,"data":"C50E0000009DFF9EFFCF02","data_encode":"hexstring","adr":true,"rxInfo":[{"gatewayID":"ac1f09fffe016898","loRaSNR":3.3,"rssi":-109,"location":{"latitude":0.000000,"longitude":0.000000,"altitude":0}}],"txInfo":{"frequency":867900000,"dr":0}}
+DBEND
+
+Send: 
+HTTP/1.1 200 OK
+Content-type: text/html
+Content-Length:35
+
+<html><body> OK </body></html>
+
+Request:
+MQTTDB
+#00000004:
+420
+21:17:58 18-08-21
+dev/0004a30b001a0ef3/rx{"applicationID":"1","applicationName":"UNIT","devEUI":"0004a30b001a0ef3","deviceName":"0004A30B001A0EF3","timestamp":1675795048,"fCnt":4751,"fPort":1,"data":"C50E0000009DFF9EFFD002","data_encode":"hexstring","adr":true,"rxInfo":[{"gatewayID":"ac1f09fffe016898","loRaSNR":5.0,"rssi":-104,"location":{"latitude":0.000000,"longitude":0.000000,"altitude":0}}],"txInfo":{"frequency":867700000,"dr":0}}
+DBEND
+
+Send: 
+HTTP/1.1 200 OK
+Content-type: text/html
+Content-Length:35
+
+<html><body> OK </body></html>
+
+Request:
+MQTTDB
+#00000004:
+415
+21:18:28 18-08-21
+dev/0004a30b001a0006/rx{"applicationID":"3","applicationName":"test","devEUI":"0004a30b001a0006","deviceName":"dev-0004a30b001a0006","timestamp":1675795078,"fCnt":72,"fPort":1,"data":"FE02000000A0FF","data_encode":"hexstring","adr":true,"rxInfo":[{"gatewayID":"ac1f09fffe016898","loRaSNR":-9.0,"rssi":-118,"location":{"latitude":0.000000,"longitude":0.000000,"altitude":0}}],"txInfo":{"frequency":868100000,"dr":0}}
+DBEND
+
+Send: 
+HTTP/1.1 200 OK
+Content-type: text/html
+Content-Length:35
+
+<html><body> OK </body></html>
+
+Request:
+MQTTDB
+#00000004:
+416
+21:18:58 18-08-21
+dev/0004a30b001a0002/rx{"applicationID":"3","applicationName":"test","devEUI":"0004a30b001a0002","deviceName":"0004A30B001A0002","timestamp":1675795107,"fCnt":13110,"fPort":1,"data":"000C000000BD003001","data_encode":"hexstring","adr":true,"rxInfo":[{"gatewayID":"ac1f09fffe016898","loRaSNR":9.3,"rssi":-82,"location":{"latitude":0.000000,"longitude":0.000000,"altitude":0}}],"txInfo":{"frequency":867900000,"dr":5}}
+DBEND
+
+Send: 
+HTTP/1.1 200 OK
+Content-type: text/html
+Content-Length:35
+
+<html><body> OK </body></html>
+
+Request:
+MQTTDB
+#00000004:
+420
+21:18:58 18-08-21
+dev/0004a30b001a0ef3/rx{"applicationID":"1","applicationName":"UNIT","devEUI":"0004a30b001a0ef3","deviceName":"0004A30B001A0EF3","timestamp":1675795108,"fCnt":4752,"fPort":1,"data":"C50E0000009DFF9EFFCF02","data_encode":"hexstring","adr":true,"rxInfo":[{"gatewayID":"ac1f09fffe016898","loRaSNR":2.3,"rssi":-106,"location":{"latitude":0.000000,"longitude":0.000000,"altitude":0}}],"txInfo":{"frequency":868900000,"dr":0}}
+DBEND
+
+Send: 
+HTTP/1.1 200 OK
+Content-type: text/html
+Content-Length:35
+
+<html><body> OK </body></html>
+
+Request:
+MQTTDB
+#00000004:
+420
+21:19:58 18-08-21
+dev/0004a30b001a0ef3/rx{"applicationID":"1","applicationName":"UNIT","devEUI":"0004a30b001a0ef3","deviceName":"0004A30B001A0EF3","timestamp":1675795168,"fCnt":4753,"fPort":1,"data":"C50E0000009DFF9EFFCF02","data_encode":"hexstring","adr":true,"rxInfo":[{"gatewayID":"ac1f09fffe016898","loRaSNR":3.8,"rssi":-108,"location":{"latitude":0.000000,"longitude":0.000000,"altitude":0}}],"txInfo":{"frequency":867900000,"dr":0}}
+DBEND
+
+Send: 
+HTTP/1.1 200 OK
+Content-type: text/html
+Content-Length:35
+
+<html><body> OK </body></html>
+
+Request:
+MQTTDB
+#00000004:
+414
+21:20:28 18-08-21
+dev/0004a30b001a0006/rx{"applicationID":"3","applicationName":"test","devEUI":"0004a30b001a0006","deviceName":"dev-0004a30b001a0006","timestamp":1675795198,"fCnt":73,"fPort":1,"data":"FE02000000A0FF","data_encode":"hexstring","adr":true,"rxInfo":[{"gatewayID":"ac1f09fffe016898","loRaSNR":3.0,"rssi":-107,"location":{"latitude":0.000000,"longitude":0.000000,"altitude":0}}],"txInfo":{"frequency":868900000,"dr":0}}
+DBEND
+
+Send: 
+HTTP/1.1 200 OK
+Content-type: text/html
+Content-Length:35
+
+<html><body> OK </body></html>
+
+Request:
+MQTTDB
+#00000004:
+417
+21:20:58 18-08-21
+dev/0004a30b001a0002/rx{"applicationID":"3","applicationName":"test","devEUI":"0004a30b001a0002","deviceName":"0004A30B001A0002","timestamp":1675795227,"fCnt":13111,"fPort":1,"data":"000C000000BC003001","data_encode":"hexstring","adr":true,"rxInfo":[{"gatewayID":"ac1f09fffe016898","loRaSNR":10.0,"rssi":-82,"location":{"latitude":0.000000,"longitude":0.000000,"altitude":0}}],"txInfo":{"frequency":867900000,"dr":5}}
+DBEND
+
+Send: 
+HTTP/1.1 200 OK
+Content-type: text/html
+Content-Length:35
+
+<html><body> OK </body></html>
+
+Request:
+MQTTDB
+#00000004:
+420
+21:20:58 18-08-21
+dev/0004a30b001a0ef3/rx{"applicationID":"1","applicationName":"UNIT","devEUI":"0004a30b001a0ef3","deviceName":"0004A30B001A0EF3","timestamp":1675795228,"fCnt":4754,"fPort":1,"data":"C50E0000009DFF9EFFCF02","data_encode":"hexstring","adr":true,"rxInfo":[{"gatewayID":"ac1f09fffe016898","loRaSNR":2.3,"rssi":-104,"location":{"latitude":0.000000,"longitude":0.000000,"altitude":0}}],"txInfo":{"frequency":867900000,"dr":0}}
+DBEND
+
+Send: 
+HTTP/1.1 200 OK
+Content-type: text/html
+Content-Length:35
+
+<html><body> OK </body></html>
+
+Request:
+MQTTDB
+#00000004:
+420
+21:21:58 18-08-21
+dev/0004a30b001a0ef3/rx{"applicationID":"1","applicationName":"UNIT","devEUI":"0004a30b001a0ef3","deviceName":"0004A30B001A0EF3","timestamp":1675795288,"fCnt":4755,"fPort":1,"data":"C50E0000009DFF9DFFCF02","data_encode":"hexstring","adr":true,"rxInfo":[{"gatewayID":"ac1f09fffe016898","loRaSNR":2.0,"rssi":-106,"location":{"latitude":0.000000,"longitude":0.000000,"altitude":0}}],"txInfo":{"frequency":868900000,"dr":0}}
+DBEND
+
+Send: 
+HTTP/1.1 200 OK
+Content-type: text/html
+Content-Length:35
+
+<html><body> OK </body></html>
+
+Request:
+MQTTDB
+#00000004:
+414
+21:22:28 18-08-21
+dev/0004a30b001a0006/rx{"applicationID":"3","applicationName":"test","devEUI":"0004a30b001a0006","deviceName":"dev-0004a30b001a0006","timestamp":1675795318,"fCnt":74,"fPort":1,"data":"FE02000000A0FF","data_encode":"hexstring","adr":true,"rxInfo":[{"gatewayID":"ac1f09fffe016898","loRaSNR":2.5,"rssi":-111,"location":{"latitude":0.000000,"longitude":0.000000,"altitude":0}}],"txInfo":{"frequency":868900000,"dr":0}}
+DBEND
+
+Send: 
+HTTP/1.1 200 OK
+Content-type: text/html
+Content-Length:35
+
+<html><body> OK </body></html>
+
+Request:
+MQTTDB
+#00000004:
+417
+21:22:58 18-08-21
+dev/0004a30b001a0002/rx{"applicationID":"3","applicationName":"test","devEUI":"0004a30b001a0002","deviceName":"0004A30B001A0002","timestamp":1675795347,"fCnt":13112,"fPort":1,"data":"000C000000BC003001","data_encode":"hexstring","adr":true,"rxInfo":[{"gatewayID":"ac1f09fffe016898","loRaSNR":10.0,"rssi":-80,"location":{"latitude":0.000000,"longitude":0.000000,"altitude":0}}],"txInfo":{"frequency":868500000,"dr":5}}
+DBEND
+
+Send: 
+HTTP/1.1 200 OK
+Content-type: text/html
+Content-Length:35
+
+<html><body> OK </body></html>
+
+Request:
+MQTTDB
+#00000004:
+420
+21:22:58 18-08-21
+dev/0004a30b001a0ef3/rx{"applicationID":"1","applicationName":"UNIT","devEUI":"0004a30b001a0ef3","deviceName":"0004A30B001A0EF3","timestamp":1675795348,"fCnt":4756,"fPort":1,"data":"C50E0000009DFF9EFFCF02","data_encode":"hexstring","adr":true,"rxInfo":[{"gatewayID":"ac1f09fffe016898","loRaSNR":4.3,"rssi":-109,"location":{"latitude":0.000000,"longitude":0.000000,"altitude":0}}],"txInfo":{"frequency":867900000,"dr":0}}
+DBEND
+
+Send: 
+HTTP/1.1 200 OK
+Content-type: text/html
+Content-Length:35
+
+<html><body> OK </body></html>
+
+Request:
+MQTTDB
+#00000004:
+420
+21:23:58 18-08-21
+dev/0004a30b001a0ef3/rx{"applicationID":"1","applicationName":"UNIT","devEUI":"0004a30b001a0ef3","deviceName":"0004A30B001A0EF3","timestamp":1675795408,"fCnt":4757,"fPort":1,"data":"C50E0000009DFF9EFFD002","data_encode":"hexstring","adr":true,"rxInfo":[{"gatewayID":"ac1f09fffe016898","loRaSNR":2.3,"rssi":-107,"location":{"latitude":0.000000,"longitude":0.000000,"altitude":0}}],"txInfo":{"frequency":868900000,"dr":0}}
+DBEND
+
+Send: 
+HTTP/1.1 200 OK
+Content-type: text/html
+Content-Length:35
+
+<html><body> OK </body></html>
+
+Request:
+MQTTDB
+#00000004:
+414
+21:24:28 18-08-21
+dev/0004a30b001a0006/rx{"applicationID":"3","applicationName":"test","devEUI":"0004a30b001a0006","deviceName":"dev-0004a30b001a0006","timestamp":1675795438,"fCnt":75,"fPort":1,"data":"FE02000000A1FF","data_encode":"hexstring","adr":true,"rxInfo":[{"gatewayID":"ac1f09fffe016898","loRaSNR":2.0,"rssi":-110,"location":{"latitude":0.000000,"longitude":0.000000,"altitude":0}}],"txInfo":{"frequency":867900000,"dr":0}}
+DBEND
+
+Send: 
+HTTP/1.1 200 OK
+Content-type: text/html
+Content-Length:35
+
+<html><body> OK </body></html>
+
+Request:
+MQTTDB
+#00000004:
+416
+21:24:58 18-08-21
+dev/0004a30b001a0002/rx{"applicationID":"3","applicationName":"test","devEUI":"0004a30b001a0002","deviceName":"0004A30B001A0002","timestamp":1675795467,"fCnt":13113,"fPort":1,"data":"000C000000BD002F01","data_encode":"hexstring","adr":true,"rxInfo":[{"gatewayID":"ac1f09fffe016898","loRaSNR":8.8,"rssi":-80,"location":{"latitude":0.000000,"longitude":0.000000,"altitude":0}}],"txInfo":{"frequency":868300000,"dr":5}}
+DBEND
+
+Send: 
+HTTP/1.1 200 OK
+Content-type: text/html
+Content-Length:35
+
+<html><body> OK </body></html>
+
+Request:
+MQTTDB
+#00000004:
+420
+21:24:58 18-08-21
+dev/0004a30b001a0ef3/rx{"applicationID":"1","applicationName":"UNIT","devEUI":"0004a30b001a0ef3","deviceName":"0004A30B001A0EF3","timestamp":1675795468,"fCnt":4758,"fPort":1,"data":"C50E0000009DFF9EFFD002","data_encode":"hexstring","adr":true,"rxInfo":[{"gatewayID":"ac1f09fffe016898","loRaSNR":1.8,"rssi":-111,"location":{"latitude":0.000000,"longitude":0.000000,"altitude":0}}],"txInfo":{"frequency":869100000,"dr":0}}
+DBEND
+
+Send: 
+HTTP/1.1 200 OK
+Content-type: text/html
+Content-Length:35
+
+<html><body> OK </body></html>
+
+Request:
+MQTTDB
+#00000004:
+420
+21:25:57 18-08-21
+dev/0004a30b001a0ef3/rx{"applicationID":"1","applicationName":"UNIT","devEUI":"0004a30b001a0ef3","deviceName":"0004A30B001A0EF3","timestamp":1675795527,"fCnt":4759,"fPort":1,"data":"C50E0000009DFF9EFFD002","data_encode":"hexstring","adr":true,"rxInfo":[{"gatewayID":"ac1f09fffe016898","loRaSNR":3.5,"rssi":-108,"location":{"latitude":0.000000,"longitude":0.000000,"altitude":0}}],"txInfo":{"frequency":867900000,"dr":0}}
+DBEND
+
+Send: 
+HTTP/1.1 200 OK
+Content-type: text/html
+Content-Length:35
+
+<html><body> OK </body></html>
+
+Request:
+MQTTDB
+#00000004:
+414
+21:26:28 18-08-21
+dev/0004a30b001a0006/rx{"applicationID":"3","applicationName":"test","devEUI":"0004a30b001a0006","deviceName":"dev-0004a30b001a0006","timestamp":1675795558,"fCnt":76,"fPort":1,"data":"FE02000000A0FF","data_encode":"hexstring","adr":true,"rxInfo":[{"gatewayID":"ac1f09fffe016898","loRaSNR":3.0,"rssi":-109,"location":{"latitude":0.000000,"longitude":0.000000,"altitude":0}}],"txInfo":{"frequency":868900000,"dr":0}}
+DBEND
+
+Send: 
+HTTP/1.1 200 OK
+Content-type: text/html
+Content-Length:35
+
+<html><body> OK </body></html>
+
+Request:
+MQTTDB
+#00000004:
+420
+21:26:57 18-08-21
+dev/0004a30b001a0ef3/rx{"applicationID":"1","applicationName":"UNIT","devEUI":"0004a30b001a0ef3","deviceName":"0004A30B001A0EF3","timestamp":1675795587,"fCnt":4760,"fPort":1,"data":"C50E0000009DFF9EFFD102","data_encode":"hexstring","adr":true,"rxInfo":[{"gatewayID":"ac1f09fffe016898","loRaSNR":2.3,"rssi":-106,"location":{"latitude":0.000000,"longitude":0.000000,"altitude":0}}],"txInfo":{"frequency":868900000,"dr":0}}
+DBEND
+
+Send: 
+HTTP/1.1 200 OK
+Content-type: text/html
+Content-Length:35
+
+<html><body> OK </body></html>
+
+Request:
+MQTTDB
+#00000004:
+416
+21:26:58 18-08-21
+dev/0004a30b001a0002/rx{"applicationID":"3","applicationName":"test","devEUI":"0004a30b001a0002","deviceName":"0004A30B001A0002","timestamp":1675795587,"fCnt":13114,"fPort":1,"data":"000C000000BD002F01","data_encode":"hexstring","adr":true,"rxInfo":[{"gatewayID":"ac1f09fffe016898","loRaSNR":9.5,"rssi":-81,"location":{"latitude":0.000000,"longitude":0.000000,"altitude":0}}],"txInfo":{"frequency":867900000,"dr":5}}
+DBEND
+
+Send: 
+HTTP/1.1 200 OK
+Content-type: text/html
+Content-Length:35
+
+<html><body> OK </body></html>
+
+Request:
+MQTTDB
+#00000004:
+420
+21:27:57 18-08-21
+dev/0004a30b001a0ef3/rx{"applicationID":"1","applicationName":"UNIT","devEUI":"0004a30b001a0ef3","deviceName":"0004A30B001A0EF3","timestamp":1675795647,"fCnt":4761,"fPort":1,"data":"C50E0000009DFF9EFFD002","data_encode":"hexstring","adr":true,"rxInfo":[{"gatewayID":"ac1f09fffe016898","loRaSNR":4.3,"rssi":-104,"location":{"latitude":0.000000,"longitude":0.000000,"altitude":0}}],"txInfo":{"frequency":868500000,"dr":0}}
+DBEND
+
+Send: 
+HTTP/1.1 200 OK
+Content-type: text/html
+Content-Length:35
+
+<html><body> OK </body></html>
+
+Request:
+MQTTDB
+#00000004:
+414
+21:28:28 18-08-21
+dev/0004a30b001a0006/rx{"applicationID":"3","applicationName":"test","devEUI":"0004a30b001a0006","deviceName":"dev-0004a30b001a0006","timestamp":1675795678,"fCnt":77,"fPort":1,"data":"FE02000000A1FF","data_encode":"hexstring","adr":true,"rxInfo":[{"gatewayID":"ac1f09fffe016898","loRaSNR":2.5,"rssi":-109,"location":{"latitude":0.000000,"longitude":0.000000,"altitude":0}}],"txInfo":{"frequency":867700000,"dr":0}}
+DBEND
+
+Send: 
+HTTP/1.1 200 OK
+Content-type: text/html
+Content-Length:35
+
+<html><body> OK </body></html>
+
+Request:
+MQTTDB
+#00000004:
+420
+21:28:57 18-08-21
+dev/0004a30b001a0ef3/rx{"applicationID":"1","applicationName":"UNIT","devEUI":"0004a30b001a0ef3","deviceName":"0004A30B001A0EF3","timestamp":1675795707,"fCnt":4762,"fPort":1,"data":"C50E0000009EFF9EFFD002","data_encode":"hexstring","adr":true,"rxInfo":[{"gatewayID":"ac1f09fffe016898","loRaSNR":4.3,"rssi":-109,"location":{"latitude":0.000000,"longitude":0.000000,"altitude":0}}],"txInfo":{"frequency":867900000,"dr":0}}
+DBEND
+
+Send: 
+HTTP/1.1 200 OK
+Content-type: text/html
+Content-Length:35
+
+<html><body> OK </body></html>
+
+Request:
+MQTTDB
+#00000004:
+417
+21:28:58 18-08-21
+dev/0004a30b001a0002/rx{"applicationID":"3","applicationName":"test","devEUI":"0004a30b001a0002","deviceName":"0004A30B001A0002","timestamp":1675795707,"fCnt":13115,"fPort":1,"data":"000C000000BC002F01","data_encode":"hexstring","adr":true,"rxInfo":[{"gatewayID":"ac1f09fffe016898","loRaSNR":10.0,"rssi":-83,"location":{"latitude":0.000000,"longitude":0.000000,"altitude":0}}],"txInfo":{"frequency":867900000,"dr":5}}
+DBEND
+
+Send: 
+HTTP/1.1 200 OK
+Content-type: text/html
+Content-Length:35
+
+<html><body> OK </body></html>
+
+Request:
+MQTTDB
+#00000004:
+420
+21:29:57 18-08-21
+dev/0004a30b001a0ef3/rx{"applicationID":"1","applicationName":"UNIT","devEUI":"0004a30b001a0ef3","deviceName":"0004A30B001A0EF3","timestamp":1675795767,"fCnt":4763,"fPort":1,"data":"C50E0000009EFF9EFFD002","data_encode":"hexstring","adr":true,"rxInfo":[{"gatewayID":"ac1f09fffe016898","loRaSNR":5.5,"rssi":-105,"location":{"latitude":0.000000,"longitude":0.000000,"altitude":0}}],"txInfo":{"frequency":867700000,"dr":0}}
+DBEND
+
+Send: 
+HTTP/1.1 200 OK
+Content-type: text/html
+Content-Length:35
+
+<html><body> OK </body></html>
+
+Request:
+MQTTDB
+#00000004:
+414
+21:30:28 18-08-21
+dev/0004a30b001a0006/rx{"applicationID":"3","applicationName":"test","devEUI":"0004a30b001a0006","deviceName":"dev-0004a30b001a0006","timestamp":1675795798,"fCnt":78,"fPort":1,"data":"FE02000000A0FF","data_encode":"hexstring","adr":true,"rxInfo":[{"gatewayID":"ac1f09fffe016898","loRaSNR":3.3,"rssi":-108,"location":{"latitude":0.000000,"longitude":0.000000,"altitude":0}}],"txInfo":{"frequency":868900000,"dr":0}}
+DBEND
+
+Send: 
+HTTP/1.1 200 OK
+Content-type: text/html
+Content-Length:35
+
+<html><body> OK </body></html>
+
+Request:
+MQTTDB
+#00000004:
+420
+21:30:57 18-08-21
+dev/0004a30b001a0ef3/rx{"applicationID":"1","applicationName":"UNIT","devEUI":"0004a30b001a0ef3","deviceName":"0004A30B001A0EF3","timestamp":1675795827,"fCnt":4764,"fPort":1,"data":"C50E0000009DFF9EFFCF02","data_encode":"hexstring","adr":true,"rxInfo":[{"gatewayID":"ac1f09fffe016898","loRaSNR":2.3,"rssi":-110,"location":{"latitude":0.000000,"longitude":0.000000,"altitude":0}}],"txInfo":{"frequency":869100000,"dr":0}}
+DBEND
+
+Send: 
+HTTP/1.1 200 OK
+Content-type: text/html
+Content-Length:35
+
+<html><body> OK </body></html>
+
+Request:
+MQTTDB
+#00000004:
+416
+21:30:58 18-08-21
+dev/0004a30b001a0002/rx{"applicationID":"3","applicationName":"test","devEUI":"0004a30b001a0002","deviceName":"0004A30B001A0002","timestamp":1675795827,"fCnt":13116,"fPort":1,"data":"000C000000BC002F01","data_encode":"hexstring","adr":true,"rxInfo":[{"gatewayID":"ac1f09fffe016898","loRaSNR":9.5,"rssi":-82,"location":{"latitude":0.000000,"longitude":0.000000,"altitude":0}}],"txInfo":{"frequency":868300000,"dr":5}}
+DBEND
+
+Send: 
+HTTP/1.1 200 OK
+Content-type: text/html
+Content-Length:35
+
+<html><body> OK </body></html>
+
+Request:
+MQTTDB
+#00000004:
+420
+21:31:57 18-08-21
+dev/0004a30b001a0ef3/rx{"applicationID":"1","applicationName":"UNIT","devEUI":"0004a30b001a0ef3","deviceName":"0004A30B001A0EF3","timestamp":1675795887,"fCnt":4765,"fPort":1,"data":"C50E0000009DFF9EFFCF02","data_encode":"hexstring","adr":true,"rxInfo":[{"gatewayID":"ac1f09fffe016898","loRaSNR":4.5,"rssi":-108,"location":{"latitude":0.000000,"longitude":0.000000,"altitude":0}}],"txInfo":{"frequency":867900000,"dr":0}}
+DBEND
+
+Send: 
+HTTP/1.1 200 OK
+Content-type: text/html
+Content-Length:35
+
+<html><body> OK </body></html>
+
+Request:
+MQTTDB
+#00000004:
+414
+21:32:28 18-08-21
+dev/0004a30b001a0006/rx{"applicationID":"3","applicationName":"test","devEUI":"0004a30b001a0006","deviceName":"dev-0004a30b001a0006","timestamp":1675795918,"fCnt":79,"fPort":1,"data":"FE02000000A0FF","data_encode":"hexstring","adr":true,"rxInfo":[{"gatewayID":"ac1f09fffe016898","loRaSNR":1.3,"rssi":-111,"location":{"latitude":0.000000,"longitude":0.000000,"altitude":0}}],"txInfo":{"frequency":867900000,"dr":0}}
+DBEND
+
+Send: 
+HTTP/1.1 200 OK
+Content-type: text/html
+Content-Length:35
+
+<html><body> OK </body></html>
+
+Request:
+MQTTDB
+#00000004:
+420
+21:32:57 18-08-21
+dev/0004a30b001a0ef3/rx{"applicationID":"1","applicationName":"UNIT","devEUI":"0004a30b001a0ef3","deviceName":"0004A30B001A0EF3","timestamp":1675795947,"fCnt":4766,"fPort":1,"data":"C50E0000009DFF9EFFCF02","data_encode":"hexstring","adr":true,"rxInfo":[{"gatewayID":"ac1f09fffe016898","loRaSNR":2.5,"rssi":-107,"location":{"latitude":0.000000,"longitude":0.000000,"altitude":0}}],"txInfo":{"frequency":868900000,"dr":0}}
+DBEND
+
+Send: 
+HTTP/1.1 200 OK
+Content-type: text/html
+Content-Length:35
+
+<html><body> OK </body></html>
+
+Request:
+MQTTDB
+#00000004:
+417
+21:32:58 18-08-21
+dev/0004a30b001a0002/rx{"applicationID":"3","applicationName":"test","devEUI":"0004a30b001a0002","deviceName":"0004A30B001A0002","timestamp":1675795947,"fCnt":13117,"fPort":1,"data":"000C000000BC002F01","data_encode":"hexstring","adr":true,"rxInfo":[{"gatewayID":"ac1f09fffe016898","loRaSNR":10.8,"rssi":-83,"location":{"latitude":0.000000,"longitude":0.000000,"altitude":0}}],"txInfo":{"frequency":868300000,"dr":5}}
+DBEND
+
+Send: 
+HTTP/1.1 200 OK
+Content-type: text/html
+Content-Length:35
+
+<html><body> OK </body></html>
+
+Request:
+MQTTDB
+#00000004:
+420
+21:33:57 18-08-21
+dev/0004a30b001a0ef3/rx{"applicationID":"1","applicationName":"UNIT","devEUI":"0004a30b001a0ef3","deviceName":"0004A30B001A0EF3","timestamp":1675796007,"fCnt":4767,"fPort":1,"data":"C50E0000009DFF9EFFCF02","data_encode":"hexstring","adr":true,"rxInfo":[{"gatewayID":"ac1f09fffe016898","loRaSNR":3.5,"rssi":-108,"location":{"latitude":0.000000,"longitude":0.000000,"altitude":0}}],"txInfo":{"frequency":869100000,"dr":0}}
+DBEND
+
+Send: 
+HTTP/1.1 200 OK
+Content-type: text/html
+Content-Length:35
+
+<html><body> OK </body></html>
+
+Request:
+MQTTDB
+#00000004:
+414
+21:34:28 18-08-21
+dev/0004a30b001a0006/rx{"applicationID":"3","applicationName":"test","devEUI":"0004a30b001a0006","deviceName":"dev-0004a30b001a0006","timestamp":1675796038,"fCnt":80,"fPort":1,"data":"FE02000000A0FF","data_encode":"hexstring","adr":true,"rxInfo":[{"gatewayID":"ac1f09fffe016898","loRaSNR":4.3,"rssi":-106,"location":{"latitude":0.000000,"longitude":0.000000,"altitude":0}}],"txInfo":{"frequency":869100000,"dr":0}}
+DBEND
+
+Send: 
+HTTP/1.1 200 OK
+Content-type: text/html
+Content-Length:35
+
+<html><body> OK </body></html>
+
+Request:
+MQTTDB
+#00000004:
+420
+21:34:57 18-08-21
+dev/0004a30b001a0ef3/rx{"applicationID":"1","applicationName":"UNIT","devEUI":"0004a30b001a0ef3","deviceName":"0004A30B001A0EF3","timestamp":1675796067,"fCnt":4768,"fPort":1,"data":"C50E0000009DFF9EFFCF02","data_encode":"hexstring","adr":true,"rxInfo":[{"gatewayID":"ac1f09fffe016898","loRaSNR":3.3,"rssi":-111,"location":{"latitude":0.000000,"longitude":0.000000,"altitude":0}}],"txInfo":{"frequency":868900000,"dr":0}}
+DBEND
+
+Send: 
+HTTP/1.1 200 OK
+Content-type: text/html
+Content-Length:35
+
+<html><body> OK </body></html>
+
+Request:
+MQTTDB
+#00000004:
+416
+21:34:58 18-08-21
+dev/0004a30b001a0002/rx{"applicationID":"3","applicationName":"test","devEUI":"0004a30b001a0002","deviceName":"0004A30B001A0002","timestamp":1675796067,"fCnt":13118,"fPort":1,"data":"000C000000BC002E01","data_encode":"hexstring","adr":true,"rxInfo":[{"gatewayID":"ac1f09fffe016898","loRaSNR":8.8,"rssi":-82,"location":{"latitude":0.000000,"longitude":0.000000,"altitude":0}}],"txInfo":{"frequency":868300000,"dr":5}}
+DBEND
+
+Send: 
+HTTP/1.1 200 OK
+Content-type: text/html
+Content-Length:35
+
+<html><body> OK </body></html>
+
+Request:
+MQTTDB
+#00000004:
+420
+21:35:57 18-08-21
+dev/0004a30b001a0ef3/rx{"applicationID":"1","applicationName":"UNIT","devEUI":"0004a30b001a0ef3","deviceName":"0004A30B001A0EF3","timestamp":1675796127,"fCnt":4769,"fPort":1,"data":"C50E0000009CFF9EFFCE02","data_encode":"hexstring","adr":true,"rxInfo":[{"gatewayID":"ac1f09fffe016898","loRaSNR":4.0,"rssi":-109,"location":{"latitude":0.000000,"longitude":0.000000,"altitude":0}}],"txInfo":{"frequency":867900000,"dr":0}}
+DBEND
+
+Send: 
+HTTP/1.1 200 OK
+Content-type: text/html
+Content-Length:35
+
+<html><body> OK </body></html>
+
+Request:
+MQTTDB
+#00000004:
+415
+21:36:28 18-08-21
+dev/0004a30b001a0006/rx{"applicationID":"3","applicationName":"test","devEUI":"0004a30b001a0006","deviceName":"dev-0004a30b001a0006","timestamp":1675796158,"fCnt":81,"fPort":1,"data":"FE020000009FFF","data_encode":"hexstring","adr":true,"rxInfo":[{"gatewayID":"ac1f09fffe016898","loRaSNR":-0.3,"rssi":-111,"location":{"latitude":0.000000,"longitude":0.000000,"altitude":0}}],"txInfo":{"frequency":868700000,"dr":0}}
+DBEND
+
+Send: 
+HTTP/1.1 200 OK
+Content-type: text/html
+Content-Length:35
+
+<html><body> OK </body></html>
+
+Request:
+MQTTDB
+#00000004:
+420
+21:36:57 18-08-21
+dev/0004a30b001a0ef3/rx{"applicationID":"1","applicationName":"UNIT","devEUI":"0004a30b001a0ef3","deviceName":"0004A30B001A0EF3","timestamp":1675796187,"fCnt":4770,"fPort":1,"data":"C50E0000009CFF9EFFCF02","data_encode":"hexstring","adr":true,"rxInfo":[{"gatewayID":"ac1f09fffe016898","loRaSNR":4.0,"rssi":-111,"location":{"latitude":0.000000,"longitude":0.000000,"altitude":0}}],"txInfo":{"frequency":867900000,"dr":0}}
+DBEND
+
+Send: 
+HTTP/1.1 200 OK
+Content-type: text/html
+Content-Length:35
+
+<html><body> OK </body></html>
+
+Request:
+MQTTDB
+#00000004:
+416
+21:36:58 18-08-21
+dev/0004a30b001a0002/rx{"applicationID":"3","applicationName":"test","devEUI":"0004a30b001a0002","deviceName":"0004A30B001A0002","timestamp":1675796187,"fCnt":13119,"fPort":1,"data":"000C000000BC002E01","data_encode":"hexstring","adr":true,"rxInfo":[{"gatewayID":"ac1f09fffe016898","loRaSNR":8.8,"rssi":-81,"location":{"latitude":0.000000,"longitude":0.000000,"altitude":0}}],"txInfo":{"frequency":869100000,"dr":5}}
+DBEND
+
+Send: 
+HTTP/1.1 200 OK
+Content-type: text/html
+Content-Length:35
+
+<html><body> OK </body></html>
+
+Request:
+MQTTDB
+#00000004:
+420
+21:37:57 18-08-21
+dev/0004a30b001a0ef3/rx{"applicationID":"1","applicationName":"UNIT","devEUI":"0004a30b001a0ef3","deviceName":"0004A30B001A0EF3","timestamp":1675796247,"fCnt":4771,"fPort":1,"data":"C50E0000009CFF9DFFCF02","data_encode":"hexstring","adr":true,"rxInfo":[{"gatewayID":"ac1f09fffe016898","loRaSNR":3.8,"rssi":-107,"location":{"latitude":0.000000,"longitude":0.000000,"altitude":0}}],"txInfo":{"frequency":868300000,"dr":0}}
+DBEND
+
+Send: 
+HTTP/1.1 200 OK
+Content-type: text/html
+Content-Length:35
+
+<html><body> OK </body></html>
+
+Request:
+MQTTDB
+#00000004:
+414
+21:38:28 18-08-21
+dev/0004a30b001a0006/rx{"applicationID":"3","applicationName":"test","devEUI":"0004a30b001a0006","deviceName":"dev-0004a30b001a0006","timestamp":1675796278,"fCnt":82,"fPort":1,"data":"FE02000000A0FF","data_encode":"hexstring","adr":true,"rxInfo":[{"gatewayID":"ac1f09fffe016898","loRaSNR":1.0,"rssi":-110,"location":{"latitude":0.000000,"longitude":0.000000,"altitude":0}}],"txInfo":{"frequency":868500000,"dr":0}}
+DBEND
+
+Send: 
+HTTP/1.1 200 OK
+Content-type: text/html
+Content-Length:35
+
+<html><body> OK </body></html>
+
+Request:
+MQTTDB
+#00000004:
+420
+21:38:57 18-08-21
+dev/0004a30b001a0ef3/rx{"applicationID":"1","applicationName":"UNIT","devEUI":"0004a30b001a0ef3","deviceName":"0004A30B001A0EF3","timestamp":1675796307,"fCnt":4772,"fPort":1,"data":"C50E0000009CFF9DFFCF02","data_encode":"hexstring","adr":true,"rxInfo":[{"gatewayID":"ac1f09fffe016898","loRaSNR":6.0,"rssi":-107,"location":{"latitude":0.000000,"longitude":0.000000,"altitude":0}}],"txInfo":{"frequency":867700000,"dr":0}}
+DBEND
+
+Send: 
+HTTP/1.1 200 OK
+Content-type: text/html
+Content-Length:35
+
+<html><body> OK </body></html>
+
+Request:
+MQTTDB
+#00000004:
+416
+21:38:58 18-08-21
+dev/0004a30b001a0002/rx{"applicationID":"3","applicationName":"test","devEUI":"0004a30b001a0002","deviceName":"0004A30B001A0002","timestamp":1675796307,"fCnt":13120,"fPort":1,"data":"000C000000BB002E01","data_encode":"hexstring","adr":true,"rxInfo":[{"gatewayID":"ac1f09fffe016898","loRaSNR":9.0,"rssi":-79,"location":{"latitude":0.000000,"longitude":0.000000,"altitude":0}}],"txInfo":{"frequency":869100000,"dr":5}}
+DBEND
+
+Send: 
+HTTP/1.1 200 OK
+Content-type: text/html
+Content-Length:35
+
+<html><body> OK </body></html>
+
+Request:
+MQTTDB
+#00000004:
+420
+21:39:57 18-08-21
+dev/0004a30b001a0ef3/rx{"applicationID":"1","applicationName":"UNIT","devEUI":"0004a30b001a0ef3","deviceName":"0004A30B001A0EF3","timestamp":1675796367,"fCnt":4773,"fPort":1,"data":"C50E0000009CFF9DFFCF02","data_encode":"hexstring","adr":true,"rxInfo":[{"gatewayID":"ac1f09fffe016898","loRaSNR":4.3,"rssi":-109,"location":{"latitude":0.000000,"longitude":0.000000,"altitude":0}}],"txInfo":{"frequency":867900000,"dr":0}}
+DBEND
+
+Send: 
+HTTP/1.1 200 OK
+Content-type: text/html
+Content-Length:35
+
+<html><body> OK </body></html>
+
+Request:
+MQTTDB
+#00000004:
+414
+21:40:28 18-08-21
+dev/0004a30b001a0006/rx{"applicationID":"3","applicationName":"test","devEUI":"0004a30b001a0006","deviceName":"dev-0004a30b001a0006","timestamp":1675796398,"fCnt":83,"fPort":1,"data":"FE02000000A0FF","data_encode":"hexstring","adr":true,"rxInfo":[{"gatewayID":"ac1f09fffe016898","loRaSNR":4.3,"rssi":-105,"location":{"latitude":0.000000,"longitude":0.000000,"altitude":0}}],"txInfo":{"frequency":869100000,"dr":0}}
+DBEND
+
+Send: 
+HTTP/1.1 200 OK
+Content-type: text/html
+Content-Length:35
+
+<html><body> OK </body></html>
+
+Request:
+MQTTDB
+#00000004:
+420
+21:40:57 18-08-21
+dev/0004a30b001a0ef3/rx{"applicationID":"1","applicationName":"UNIT","devEUI":"0004a30b001a0ef3","deviceName":"0004A30B001A0EF3","timestamp":1675796427,"fCnt":4774,"fPort":1,"data":"C50E0000009CFF9DFFCF02","data_encode":"hexstring","adr":true,"rxInfo":[{"gatewayID":"ac1f09fffe016898","loRaSNR":3.0,"rssi":-109,"location":{"latitude":0.000000,"longitude":0.000000,"altitude":0}}],"txInfo":{"frequency":868700000,"dr":0}}
+DBEND
+
+Send: 
+HTTP/1.1 200 OK
+Content-type: text/html
+Content-Length:35
+
+<html><body> OK </body></html>
+
+Request:
+MQTTDB
+#00000004:
+417
+21:40:58 18-08-21
+dev/0004a30b001a0002/rx{"applicationID":"3","applicationName":"test","devEUI":"0004a30b001a0002","deviceName":"0004A30B001A0002","timestamp":1675796427,"fCnt":13121,"fPort":1,"data":"000C000000BC002E01","data_encode":"hexstring","adr":true,"rxInfo":[{"gatewayID":"ac1f09fffe016898","loRaSNR":10.8,"rssi":-81,"location":{"latitude":0.000000,"longitude":0.000000,"altitude":0}}],"txInfo":{"frequency":869100000,"dr":5}}
+DBEND
+
+Send: 
+HTTP/1.1 200 OK
+Content-type: text/html
+Content-Length:35
+
+<html><body> OK </body></html>
+
+Request:
+MQTTDB
+#00000004:
+420
+21:41:57 18-08-21
+dev/0004a30b001a0ef3/rx{"applicationID":"1","applicationName":"UNIT","devEUI":"0004a30b001a0ef3","deviceName":"0004A30B001A0EF3","timestamp":1675796487,"fCnt":4775,"fPort":1,"data":"C50E0000009CFF9DFFD002","data_encode":"hexstring","adr":true,"rxInfo":[{"gatewayID":"ac1f09fffe016898","loRaSNR":2.5,"rssi":-107,"location":{"latitude":0.000000,"longitude":0.000000,"altitude":0}}],"txInfo":{"frequency":868900000,"dr":0}}
+DBEND
+
+Send: 
+HTTP/1.1 200 OK
+Content-type: text/html
+Content-Length:35
+
+<html><body> OK </body></html>
+
+Request:
+MQTTDB
+#00000004:
+414
+21:42:28 18-08-21
+dev/0004a30b001a0006/rx{"applicationID":"3","applicationName":"test","devEUI":"0004a30b001a0006","deviceName":"dev-0004a30b001a0006","timestamp":1675796518,"fCnt":84,"fPort":1,"data":"FE02000000A0FF","data_encode":"hexstring","adr":true,"rxInfo":[{"gatewayID":"ac1f09fffe016898","loRaSNR":3.0,"rssi":-111,"location":{"latitude":0.000000,"longitude":0.000000,"altitude":0}}],"txInfo":{"frequency":868300000,"dr":0}}
+DBEND
+
+Send: 
+HTTP/1.1 200 OK
+Content-type: text/html
+Content-Length:35
+
+<html><body> OK </body></html>
+
+Request:
+MQTTDB
+#00000004:
+420
+21:42:57 18-08-21
+dev/0004a30b001a0ef3/rx{"applicationID":"1","applicationName":"UNIT","devEUI":"0004a30b001a0ef3","deviceName":"0004A30B001A0EF3","timestamp":1675796547,"fCnt":4776,"fPort":1,"data":"C50E0000009CFF9DFFD002","data_encode":"hexstring","adr":true,"rxInfo":[{"gatewayID":"ac1f09fffe016898","loRaSNR":2.8,"rssi":-111,"location":{"latitude":0.000000,"longitude":0.000000,"altitude":0}}],"txInfo":{"frequency":867900000,"dr":0}}
+DBEND
+
+Send: 
+HTTP/1.1 200 OK
+Content-type: text/html
+Content-Length:35
+
+<html><body> OK </body></html>
+
+Request:
+MQTTDB
+#00000004:
+416
+21:42:58 18-08-21
+dev/0004a30b001a0002/rx{"applicationID":"3","applicationName":"test","devEUI":"0004a30b001a0002","deviceName":"0004A30B001A0002","timestamp":1675796547,"fCnt":13122,"fPort":1,"data":"000C000000BC002D01","data_encode":"hexstring","adr":true,"rxInfo":[{"gatewayID":"ac1f09fffe016898","loRaSNR":8.0,"rssi":-78,"location":{"latitude":0.000000,"longitude":0.000000,"altitude":0}}],"txInfo":{"frequency":868700000,"dr":5}}
+DBEND
+
+Send: 
+HTTP/1.1 200 OK
+Content-type: text/html
+Content-Length:35
+
+<html><body> OK </body></html>
+
+Request:
+MQTTDB
+#00000004:
+420
+21:43:57 18-08-21
+dev/0004a30b001a0ef3/rx{"applicationID":"1","applicationName":"UNIT","devEUI":"0004a30b001a0ef3","deviceName":"0004A30B001A0EF3","timestamp":1675796607,"fCnt":4777,"fPort":1,"data":"C50E0000009CFF9DFFCF02","data_encode":"hexstring","adr":true,"rxInfo":[{"gatewayID":"ac1f09fffe016898","loRaSNR":3.5,"rssi":-107,"location":{"latitude":0.000000,"longitude":0.000000,"altitude":0}}],"txInfo":{"frequency":867900000,"dr":0}}
+DBEND
+
+Send: 
+HTTP/1.1 200 OK
+Content-type: text/html
+Content-Length:35
+
+<html><body> OK </body></html>
+
+Request:
+MQTTDB
+#00000004:
+414
+21:44:28 18-08-21
+dev/0004a30b001a0006/rx{"applicationID":"3","applicationName":"test","devEUI":"0004a30b001a0006","deviceName":"dev-0004a30b001a0006","timestamp":1675796638,"fCnt":85,"fPort":1,"data":"FE02000000A0FF","data_encode":"hexstring","adr":true,"rxInfo":[{"gatewayID":"ac1f09fffe016898","loRaSNR":3.8,"rssi":-105,"location":{"latitude":0.000000,"longitude":0.000000,"altitude":0}}],"txInfo":{"frequency":869100000,"dr":0}}
+DBEND
+
+Send: 
+HTTP/1.1 200 OK
+Content-type: text/html
+Content-Length:35
+
+<html><body> OK </body></html>
+
+Request:
+MQTTDB
+#00000004:
+421
+21:44:57 18-08-21
+dev/0004a30b001a0ef3/rx{"applicationID":"1","applicationName":"UNIT","devEUI":"0004a30b001a0ef3","deviceName":"0004A30B001A0EF3","timestamp":1675796667,"fCnt":4778,"fPort":1,"data":"C50E0000009CFF9DFFD002","data_encode":"hexstring","adr":true,"rxInfo":[{"gatewayID":"ac1f09fffe016898","loRaSNR":-1.8,"rssi":-113,"location":{"latitude":0.000000,"longitude":0.000000,"altitude":0}}],"txInfo":{"frequency":868100000,"dr":0}}
+DBEND
+
+Send: 
+HTTP/1.1 200 OK
+Content-type: text/html
+Content-Length:35
+
+<html><body> OK </body></html>
+
+Request:
+MQTTDB
+#00000004:
+416
+21:44:58 18-08-21
+dev/0004a30b001a0002/rx{"applicationID":"3","applicationName":"test","devEUI":"0004a30b001a0002","deviceName":"0004A30B001A0002","timestamp":1675796667,"fCnt":13123,"fPort":1,"data":"000C000000BB002D01","data_encode":"hexstring","adr":true,"rxInfo":[{"gatewayID":"ac1f09fffe016898","loRaSNR":9.5,"rssi":-81,"location":{"latitude":0.000000,"longitude":0.000000,"altitude":0}}],"txInfo":{"frequency":869100000,"dr":5}}
+DBEND
+
+Send: 
+HTTP/1.1 200 OK
+Content-type: text/html
+Content-Length:35
+
+<html><body> OK </body></html>
+
+Request:
+MQTTDB
+#00000004:
+420
+21:45:57 18-08-21
+dev/0004a30b001a0ef3/rx{"applicationID":"1","applicationName":"UNIT","devEUI":"0004a30b001a0ef3","deviceName":"0004A30B001A0EF3","timestamp":1675796727,"fCnt":4779,"fPort":1,"data":"C50E0000009CFF9CFFD002","data_encode":"hexstring","adr":true,"rxInfo":[{"gatewayID":"ac1f09fffe016898","loRaSNR":3.0,"rssi":-109,"location":{"latitude":0.000000,"longitude":0.000000,"altitude":0}}],"txInfo":{"frequency":869100000,"dr":0}}
+DBEND
+
+Send: 
+HTTP/1.1 200 OK
+Content-type: text/html
+Content-Length:35
+
+<html><body> OK </body></html>
+
+Request:
+MQTTDB
+#00000004:
+414
+21:46:28 18-08-21
+dev/0004a30b001a0006/rx{"applicationID":"3","applicationName":"test","devEUI":"0004a30b001a0006","deviceName":"dev-0004a30b001a0006","timestamp":1675796758,"fCnt":86,"fPort":1,"data":"FE020000009EFF","data_encode":"hexstring","adr":true,"rxInfo":[{"gatewayID":"ac1f09fffe016898","loRaSNR":3.5,"rssi":-106,"location":{"latitude":0.000000,"longitude":0.000000,"altitude":0}}],"txInfo":{"frequency":869100000,"dr":0}}
+DBEND
+
+Send: 
+HTTP/1.1 200 OK
+Content-type: text/html
+Content-Length:35
+
+<html><body> OK </body></html>
+
+Request:
+MQTTDB
+#00000004:
+420
+21:46:57 18-08-21
+dev/0004a30b001a0ef3/rx{"applicationID":"1","applicationName":"UNIT","devEUI":"0004a30b001a0ef3","deviceName":"0004A30B001A0EF3","timestamp":1675796787,"fCnt":4780,"fPort":1,"data":"C50E0000009BFF9CFFD002","data_encode":"hexstring","adr":true,"rxInfo":[{"gatewayID":"ac1f09fffe016898","loRaSNR":4.5,"rssi":-111,"location":{"latitude":0.000000,"longitude":0.000000,"altitude":0}}],"txInfo":{"frequency":867900000,"dr":0}}
+DBEND
+
+Send: 
+HTTP/1.1 200 OK
+Content-type: text/html
+Content-Length:35
+
+<html><body> OK </body></html>
+
+Request:
+MQTTDB
+#00000004:
+416
+21:46:58 18-08-21
+dev/0004a30b001a0002/rx{"applicationID":"3","applicationName":"test","devEUI":"0004a30b001a0002","deviceName":"0004A30B001A0002","timestamp":1675796787,"fCnt":13124,"fPort":1,"data":"000C000000BB002D01","data_encode":"hexstring","adr":true,"rxInfo":[{"gatewayID":"ac1f09fffe016898","loRaSNR":8.5,"rssi":-83,"location":{"latitude":0.000000,"longitude":0.000000,"altitude":0}}],"txInfo":{"frequency":868100000,"dr":5}}
+DBEND
+
+Send: 
+HTTP/1.1 200 OK
+Content-type: text/html
+Content-Length:35
+
+<html><body> OK </body></html>
+
+Request:
+MQTTDB
+#00000004:
+420
+21:47:57 18-08-21
+dev/0004a30b001a0ef3/rx{"applicationID":"1","applicationName":"UNIT","devEUI":"0004a30b001a0ef3","deviceName":"0004A30B001A0EF3","timestamp":1675796847,"fCnt":4781,"fPort":1,"data":"C50E0000009CFF9CFFD102","data_encode":"hexstring","adr":true,"rxInfo":[{"gatewayID":"ac1f09fffe016898","loRaSNR":2.8,"rssi":-109,"location":{"latitude":0.000000,"longitude":0.000000,"altitude":0}}],"txInfo":{"frequency":869100000,"dr":0}}
+DBEND
+
+Send: 
+HTTP/1.1 200 OK
+Content-type: text/html
+Content-Length:35
+
+<html><body> OK </body></html>
+
+Request:
+MQTTDB
+#00000004:
+414
+21:48:28 18-08-21
+dev/0004a30b001a0006/rx{"applicationID":"3","applicationName":"test","devEUI":"0004a30b001a0006","deviceName":"dev-0004a30b001a0006","timestamp":1675796878,"fCnt":87,"fPort":1,"data":"FE020000009FFF","data_encode":"hexstring","adr":true,"rxInfo":[{"gatewayID":"ac1f09fffe016898","loRaSNR":2.5,"rssi":-106,"location":{"latitude":0.000000,"longitude":0.000000,"altitude":0}}],"txInfo":{"frequency":868900000,"dr":0}}
+DBEND
+
+Send: 
+HTTP/1.1 200 OK
+Content-type: text/html
+Content-Length:35
+
+<html><body> OK </body></html>
+
+Request:
+MQTTDB
+#00000004:
+420
+21:48:57 18-08-21
+dev/0004a30b001a0ef3/rx{"applicationID":"1","applicationName":"UNIT","devEUI":"0004a30b001a0ef3","deviceName":"0004A30B001A0EF3","timestamp":1675796907,"fCnt":4782,"fPort":1,"data":"C50E0000009BFF9CFFD102","data_encode":"hexstring","adr":true,"rxInfo":[{"gatewayID":"ac1f09fffe016898","loRaSNR":3.8,"rssi":-110,"location":{"latitude":0.000000,"longitude":0.000000,"altitude":0}}],"txInfo":{"frequency":867900000,"dr":0}}
+DBEND
+
+Send: 
+HTTP/1.1 200 OK
+Content-type: text/html
+Content-Length:35
+
+<html><body> OK </body></html>
+
+Request:
+MQTTDB
+#00000004:
+417
+21:48:58 18-08-21
+dev/0004a30b001a0002/rx{"applicationID":"3","applicationName":"test","devEUI":"0004a30b001a0002","deviceName":"0004A30B001A0002","timestamp":1675796907,"fCnt":13125,"fPort":1,"data":"000C000000BB002D01","data_encode":"hexstring","adr":true,"rxInfo":[{"gatewayID":"ac1f09fffe016898","loRaSNR":10.5,"rssi":-82,"location":{"latitude":0.000000,"longitude":0.000000,"altitude":0}}],"txInfo":{"frequency":868300000,"dr":5}}
+DBEND
+
+Send: 
+HTTP/1.1 200 OK
+Content-type: text/html
+Content-Length:35
+
+<html><body> OK </body></html>
+
+Request:
+MQTTDB
+#00000004:
+420
+21:49:56 18-08-21
+dev/0004a30b001a0ef3/rx{"applicationID":"1","applicationName":"UNIT","devEUI":"0004a30b001a0ef3","deviceName":"0004A30B001A0EF3","timestamp":1675796966,"fCnt":4783,"fPort":1,"data":"C50E0000009BFF9CFFD102","data_encode":"hexstring","adr":true,"rxInfo":[{"gatewayID":"ac1f09fffe016898","loRaSNR":2.5,"rssi":-109,"location":{"latitude":0.000000,"longitude":0.000000,"altitude":0}}],"txInfo":{"frequency":869100000,"dr":0}}
+DBEND
+
+Send: 
+HTTP/1.1 200 OK
+Content-type: text/html
+Content-Length:35
+
+<html><body> OK </body></html>
+
+Request:
+MQTTDB
+#00000004:
+414
+21:50:28 18-08-21
+dev/0004a30b001a0006/rx{"applicationID":"3","applicationName":"test","devEUI":"0004a30b001a0006","deviceName":"dev-0004a30b001a0006","timestamp":1675796998,"fCnt":88,"fPort":1,"data":"FE020000009EFF","data_encode":"hexstring","adr":true,"rxInfo":[{"gatewayID":"ac1f09fffe016898","loRaSNR":2.8,"rssi":-106,"location":{"latitude":0.000000,"longitude":0.000000,"altitude":0}}],"txInfo":{"frequency":868900000,"dr":0}}
+DBEND
+
+Send: 
+HTTP/1.1 200 OK
+Content-type: text/html
+Content-Length:35
+
+<html><body> OK </body></html>
+
+Request:
+MQTTDB
+#00000004:
+420
+21:50:56 18-08-21
+dev/0004a30b001a0ef3/rx{"applicationID":"1","applicationName":"UNIT","devEUI":"0004a30b001a0ef3","deviceName":"0004A30B001A0EF3","timestamp":1675797026,"fCnt":4784,"fPort":1,"data":"C50E0000009BFF9CFFD102","data_encode":"hexstring","adr":true,"rxInfo":[{"gatewayID":"ac1f09fffe016898","loRaSNR":3.0,"rssi":-106,"location":{"latitude":0.000000,"longitude":0.000000,"altitude":0}}],"txInfo":{"frequency":868900000,"dr":0}}
+DBEND
+
+Send: 
+HTTP/1.1 200 OK
+Content-type: text/html
+Content-Length:35
+
+<html><body> OK </body></html>
+
